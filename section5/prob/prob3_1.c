@@ -6,7 +6,7 @@ int main(void) {
 	printf("任意の整数の値を入力してください：");
 	scanf("%d", &i);
 
-	if(i > 5) {
+	if(i >= 5) {
 		printf("５以上です\n");
 	}
 
