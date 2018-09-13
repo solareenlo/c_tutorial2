@@ -1,6 +1,6 @@
 #include <stdio.h>
 double ave(double l, double m) {
-    double r = (l + m) / 2;
+    double r = (l + m) / 2.0;
     return r;
 }
 
